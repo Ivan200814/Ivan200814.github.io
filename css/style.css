@@ -1,5 +1,5 @@
 h1 {
-	color: pink;
+	color:brown ;
 	font-size: 50px;
 	text-align: center;
 } 
@@ -7,9 +7,9 @@ p {
 	font-size: 25px;
 }
 a {
-	color: pink;
-	font-size: 50px;
+	color:brown ;
+	font-size: 20%;
 }
 img {
-	width: 70%;
+	width: 50%;
 }
